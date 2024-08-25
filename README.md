@@ -3,7 +3,6 @@
 <h1 align="left">Hi 👋, I'm Jiyoon</h1>
 <h3 align="left">Developing me now :)</h3>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
