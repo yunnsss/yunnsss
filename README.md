@@ -1,7 +1,7 @@
 ## About me
 
 <h1 align="left">Hi 👋, I'm Jiyoon</h1>
-<h3 align="left">Developing me now :)</h3>
+<h3 align="left">Updating now :)</h3>
 
 <p align="left">
 </p>
