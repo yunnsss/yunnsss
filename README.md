@@ -1,12 +1,15 @@
-## About me
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD6E7,50:D6EAFF,100:D6F5EC&height=200&section=header&text=Jiyoon&fontSize=60&fontColor=7B7B9A&fontAlignY=38&desc=Backend%20Developer&descAlignY=58&descSize=20&descFontColor=9B9BBF&animation=fadeIn" width="100%"/>
+</div>
 
-<h1 align="left">Hi 👋, I'm Jiyoon</h1>
-<h3 align="left">Updating now :)</h3>
+<br>
 
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
-
-
+<div align="center">
+  <table style="border: none; border-left: 3px solid #4A5568; background-color: #F8FAFC; padding: 12px 24px; border-radius: 30px;">
+    <tr>
+      <td style="border: none; color: #2D3748; font-size: 15px; font-weight: 500; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;">
+        ✨ 프로젝트를 아카이빙하며, 끊임없이 새로운 시도를 기록해가는 분석가 정지윤입니다 
+      </td>
+    </tr>
+  </table>
+</div>
